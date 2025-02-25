@@ -2,3 +2,7 @@
 desktop.ini
 
 .DS_Store
+
+# DOOM saves (e.g. `doomsave0.dsg`)
+my-efi/DOOM/doomsav*.dsg
+
